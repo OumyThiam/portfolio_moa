@@ -1,0 +1,168 @@
+{
+  "header": {
+    "home": "Home",
+    "projects": "Projects",
+    "about": "About",
+    "contacts": "Contacts"
+  },
+  "footer": {
+    "description": "Full-Stack Developer",
+    "copyright": "Copyright 2026. Built by Oumy",
+    "media": "Socials"
+  },
+  "skills": {
+    "language": "Languages",
+    "database": "Databases",
+    "modelisation_projet": "Project modeling & management",
+    "dataScience": "Data Science",
+    "framework": "Frameworks"
+  },
+  "projects": {
+    "chertnodes": {
+      "name": "ChertNodes",
+      "description": "Minecraft server hosting."
+    },
+    "protectx": {
+      "name": "ProtectX Web",
+      "description": "Discord bot protecting against crashes and abuse."
+    },
+    "khanswers": {
+      "name": "Kahoot Answers",
+      "description": "Tool to retrieve answers for Kahoot quizzes."
+    },
+    "kotikbot": {
+      "name": "KotikBot",
+      "description": "Landing page for a multifunctional Discord bot."
+    },
+    "portfolio": {
+      "name": "This portfolio",
+      "description": "My personal portfolio."
+    },
+    "blog": {
+      "name": "My blog",
+      "description": "Front-end interface for my upcoming blog website."
+    },
+    "discordbot": {
+      "name": "Discord Bot Boilerplate",
+      "description": "Starter template to quickly build scalable Discord bots with TypeScript."
+    },
+    "chesspro": {
+      "name": "Chess PRO",
+      "description": "Landing page for chess tournament visualization."
+    },
+    "ooku": {
+      "name": "Ooku",
+      "description": "Link shortener with Discord authentication."
+    },
+    "madhost": {
+      "name": "MadHost",
+      "description": "Affordable Minecraft and web hosting."
+    },
+    "feedrum": {
+      "name": "Recycle Me",
+      "description": "Make Earth clean, the fun way. Our app uses machine learning and gamification to reduce waste and make recycling exciting."
+    },
+    "deplos": {
+      "name": "Portfolio Management",
+      "description": "Application offering two investment profiles with dedicated dashboards."
+    },
+    "powerbi": {
+      "name": "Client & Order Management",
+      "description": "Centralized application for managing clients and orders."
+    }
+  },
+  "pages": {
+    "home": {
+      "hero": {
+        "title": "Hey, I’m Oumy <span>Full-Stack Developer</span>",
+        "description": "Passionate developer focused on building reliable, high-performance, and user-centered web applications. I enjoy turning complex problems into clear, efficient, and maintainable solutions.",
+        "button": "Contact me",
+        "status": "Open to new opportunities"
+      },
+      "quote": {
+        "text": "Creativity is intelligence having fun.",
+        "author": "Albert Einstein"
+      },
+      "projects": {
+        "title": "projects",
+        "button": "View all"
+      },
+      "skills": {
+        "title": "skills"
+      },
+      "about": {
+        "title": "about",
+        "description": [
+          "Through personal and professional projects, I’ve developed a user-oriented approach with a strong focus on code quality and maintainability.",
+          "I work on applications involving data management, dashboards, and interactive interfaces, aiming to deliver clear and useful features.",
+          "Curious and detail-oriented, I pursue continuous learning to improve both my technical skills and user experience."
+        ],
+        "button": "View more"
+      },
+      "contacts": {
+        "title": "contacts",
+        "text": "I’m looking to join an innovative company where I can apply my web development and artificial intelligence skills to high-value projects.",
+        "media": "Get in touch",
+        "donate": "Support me"
+      }
+    },
+    "projects": {
+      "description": "All my projects",
+      "decent": "Personal projects",
+      "small": "small",
+      "inProgress": "in progress"
+    },
+    "about": {
+      "description": "Who am I",
+      "about": {
+        "description": [
+          "Full-Stack Developer passionate about building modern, high-performance, and accessible web applications.",
+          "I enjoy turning ideas into concrete solutions, with a strong focus on architecture, user experience, and maintainability.",
+          "I continuously seek to learn and grow my skills through new projects and technologies."
+        ]
+      },
+      "skills": {
+        "title": "skills"
+      },
+      "facts": {
+        "title": "fun facts",
+        "list": [
+          "I prefer winter over summer",
+          "I enjoy cooking and baking",
+          "I love pizza and pasta",
+          "I can drink a liter of water in one go",
+          "My favorite movie is The Woman King",
+          "I enjoy solving problems more than explaining them.",
+          "I prefer clarity over complexity."
+        ]
+      },
+      "experience_pro": {
+        "title": "professional experience",
+        "poste": "Apprentice – Full-Stack Developer – TSF Group",
+        "date": "2023 – 2025",
+        "location": "Saint-Denis",
+        "list": [
+          "End-to-end development of a CRM (Figma mockups, React + Vite, AdonisJS)",
+          "Performance optimization and caching with Redis",
+          "Application containerization (Node.js, Prisma, Redis) using Docker",
+          "AI project: OpenAI-based assistant to automate ERP contracts via XML",
+          "Business requirements analysis and ERP process optimization",
+          "Creation and optimization of SQL views and queries"
+        
+        ],
+        "poste2": "Application Developer — Aaron",
+        "date2": "April 2023 – August 2023 | Final-year internship",
+        "location2": "Paris",
+        "list2": [
+          "Application architecture design following the MVC pattern",
+          "Setup of a relational database (PostgreSQL with Prisma)",
+          "Development of a mobile interface using React Native",
+          "Design and execution of functional test plans to validate key features"
+        ]
+      }
+    },
+    "contacts": {
+      "description": "How to contact me"
+    }
+  }
+}

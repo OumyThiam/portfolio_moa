@@ -1,0 +1,175 @@
+{
+  "header": {
+    "home": "Accueil",
+    "projects": "Projets",
+    "about": "À propos",
+    "contacts": "Contacts"
+  },
+  "footer": {
+    "description": "Développeuse Data & IA",
+    "copyright": "Copyright 2026. Réalisé par Oumy",
+    "media": "Réseaux"
+  },
+  "skills": {
+    "language": "Langages",
+    "database": "Bases de données",
+    "modelisation_projet": "Modélisation & gestion de projet",
+    "dataScience": "Data, IA & Machine Learning",
+    "framework": "Outils, frameworks & plateformes"
+  },
+  "projects": {
+    "chertnodes": {
+      "name": "ChertNodes",
+      "description": "Plateforme d’hébergement de serveurs avec supervision, gestion des utilisateurs et automatisation."
+    },
+    "protectx": {
+      "name": "ProtectX Web",
+      "description": "Interface web pour un bot de modération et de protection avec suivi des événements et indicateurs."
+    },
+    "khanswers": {
+      "name": "Réponses Kahoot",
+      "description": "Outil d’automatisation et d’analyse de quiz pour l’exploration de données éducatives."
+    },
+    "kotikbot": {
+      "name": "KotikBot",
+      "description": "Landing page et suivi d’usage pour un bot multifonctionnel."
+    },
+    "portfolio": {
+      "name": "Ce portfolio",
+      "description": "Site personnel mettant en avant mes projets Data, IA et tableaux de bord."
+    },
+    "blog": {
+      "name": "Mon blog Data & IA",
+      "description": "Interface front pour publier des articles de veille et de retours d’expérience Data."
+    },
+    "discordbot": {
+      "name": "Discord Bot Boilerplate",
+      "description": "Base TypeScript pour bots avec logs, supervision et structuration des données."
+    },
+    "chesspro": {
+      "name": "Chess PRO",
+      "description": "Visualisation de tournois et indicateurs de performance des joueurs."
+    },
+    "ooku": {
+      "name": "Ooku",
+      "description": "Raccourcisseur de liens avec authentification et suivi statistique."
+    },
+    "madhost": {
+      "name": "MadHost",
+      "description": "Hébergement web avec supervision et indicateurs d’usage."
+    },
+    "feedrum": {
+      "name": "Recycle Me",
+      "description": "Application orientée data et machine learning pour la classification de déchets et la gamification."
+    },
+    "deplos": {
+      "name": "Gestion de portefeuilles",
+      "description": "Analyse comparative de portefeuilles selon leur profil de risque via indicateurs et visualisations."
+    },
+    "portfolioProject": {
+      "name": "Projet de portfolio",
+      "description": "Développement d’un portfolio personnel pour présenter mes projets Data, IA et tableaux de bord avec une interface moderne et responsive."
+    },
+    "powerbi": {
+      "name": "Dashboard Power BI",
+      "description": "Tableau de bord Power BI de suivi des ventes : pipeline data complet (préparation, modélisation, DAX), visualisations interactives, sécurité RLS et déploiement sur Power BI Service."
+    }
+  },
+ "pages": {
+  "home": {
+      "hero": {
+        "title": "Hey, je suis Oumy <span>Développeuse Data</span>",
+        "description": "Mon intérêt pour la data et l’analyse décisionnelle me pousse à comprendre les besoins métiers afin de développer des solutions fiables et adaptées.<br/>Dotée de solides compétences en développement d'applications, je mets un point d'honneur à la sécurité et à la fiabilité des données.<br/>Je maîtrise l'automatisation des flux (ETL) pour garantir des indicateurs fiables et transformer les données brutes en leviers de décision stratégiques.",
+        "button": "Me contacter",
+        "status": "Ouverte à de nouvelles opportunités"
+      },
+
+      "quote": {
+        "textBlocks": [
+          "Les données sont comme une faible lueur quand on est perdu dans le noir. ",
+          "Suis-la, cherche à lui donner du sens,",
+          "et tu découvriras peut-être où tu es et ce qui t'entoure."
+        ],
+        "text": "Les données sont comme une faible lueur quand on est perdu dans le noir. Suis-la, cherche à lui donner du sens, et tu découvriras peut-être où tu es et ce qui t'entoure.",
+        "author": "David Sides"
+      },
+      "projects": {
+        "title": "projets",
+        "button": "Voir tout"
+      },
+      "skills": {
+        "title": "compétences"
+      },
+      "about": {
+        "title": "à propos",
+        "description": [
+         " À travers mes projets professionnels et académiques, j’ai développé une approche orientée métier centrée sur la donnée, sa qualité et la production d’indicateurs fiables.",
+        "J’ai travaillé sur des projets intégrant la préparation des données, la conception de tableaux de bord Power BI et l’automatisation de processus en environnement ERP.",
+         " Curieuse et rigoureuse, je mène également une veille active afin d’identifier les technologies d’agents IA les plus adaptées aux besoins métiers."
+        ],
+        "button": "Voir tout"
+      },
+      "contacts": {
+        "title": "contacts",
+        "text": "Je souhaite rejoindre une entreprise afin de mettre mes compétences en data, qualité de la donnée et intelligence artificielle au service de projets de transformation des organisations.",
+        "media": "Contactez-moi ici",
+        "donate": "Me soutenir ici"
+      }
+    },
+    "projects": {
+      "description": "Tous mes projets",
+      "decent": "Projets Data, IA et applicatifs",
+      "small": "petit",
+      "inProgress": "en cours"
+    },
+    "about": {
+      "description": "Qui suis-je",
+      "about": {
+        "description": [
+          "Développeuse Data & IA junior, j’interviens sur des projets mêlant données, systèmes d’information et automatisation de processus métiers.",
+          "J’accorde une importance particulière à la qualité des données, à la gouvernance et à la production de tableaux de bord fiables pour les équipes métiers.",
+          "Je développe une approche orientée valeur métier, validation utilisateur et amélioration continue des modèles et des indicateurs."
+        ]
+      },
+      "skills": {
+        "title": "compétences"
+      },
+      "facts": {
+        "title": "faits amusants",
+        "list": [
+          "Je préfère l’hiver à l’été",
+          "J’aime faire du vélo",
+          "J’adore la pizza et les pâtes",
+          "Mon film préféré est La Ligne verte"
+        ]
+      },
+      "experience_pro": {
+        "title": "expérience professionnelle",
+        "poste": "Alternante – Développeuse Data & IA – Groupe TSF",
+        "date": "2023 – 2025",
+        "location": "Saint-Denis",
+        "list": [
+          "Conception et maintenance de tableaux de bord Power BI (modélisation, DAX, KPI métier et fiabilisation des indicateurs)",
+          "Mise en place de contrôles de qualité des données et règles de cohérence pour le pilotage opérationnel",
+          "Projet IA : assistant pour l’automatisation de contrats et de flux ERP via génération de fichiers XML",
+          "Réalisation d’une veille technologique et d’un benchmark d’agents IA afin d’identifier la solution la plus adaptée au projet",
+          "Analyse des besoins métier et optimisation des processus ERP",
+          "Création et optimisation de vues et requêtes SQL complexes",
+          "Participation à l’administration fonctionnelle de l’ERP (droits, workflows et automatisations)"
+        ],
+        "poste2": "Développeuse d’application – Aaron",
+        "date2": "Avril 2023 – Août 2023 | Stage de fin d’études",
+        "location2": "Paris",
+        "list2": [
+          "Conception de l’architecture de l’application et structuration des données",
+          "Mise en place d’une base de données relationnelle PostgreSQL",
+          "Développement d’interfaces connectées à une API avec suivi et validation des données",
+          "Élaboration et exécution de plans de tests fonctionnels pour garantir la qualité des livrables"
+        ]
+      }
+    },
+    "contacts": {
+      "description": "Comment me contacter"
+    }
+  }
+}
