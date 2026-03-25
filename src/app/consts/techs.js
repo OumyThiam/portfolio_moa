@@ -67,6 +67,7 @@ export default {
     Jira:"Jira",
     Selenium:"Selenium",
     sonaque:"SonarQube",
+    git:"GitHub/GitLab",
 
 
 }

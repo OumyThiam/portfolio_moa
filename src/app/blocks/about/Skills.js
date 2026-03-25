@@ -47,7 +47,7 @@ export default (t, t2) => {
         sql_server: 80, postgreSql: 75,
         powerBi: 90, spark: 70, kedro: 60, mlflow: 60, shell: 70, pandas: 85, scikitLearn: 75,
         react: 80, next: 70, express: 70, flask: 70, reactNative: 65, Vujs: 60,
-        methodeAgile: 85, Trello: 80, figma: 75, UML: 75, merise: 70
+        methodeAgile: 95,Jira: 90, Trello: 95, figma: 95, UML: 93, merise: 90, git: 85, 
     };
 
     const renderItem = (label, value) => /*html*/ `
@@ -63,6 +63,7 @@ export default (t, t2) => {
     `;
 
     const groups = [
+        { id: "modelisation_projet", title: t2.modelisation_projet, icon: icons.modelisation_projet, keys: ["modelisation_projet"] },
         {
             id: "language_database",
             title: `${t2.language} & ${t2.database}`,
@@ -76,7 +77,7 @@ export default (t, t2) => {
             `,
             keys: ["language", "database"],
         },
-        { id: "modelisation_projet", title: t2.modelisation_projet, icon: icons.modelisation_projet, keys: ["modelisation_projet"] },
+        
         { id: "dataScience", title: t2.dataScience, icon: icons.dataScience, keys: ["dataScience"] },
         { id: "framework", title: t2.framework, icon: icons.framework, keys: ["framework"] },
     ];
