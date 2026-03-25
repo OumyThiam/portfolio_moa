@@ -43,7 +43,7 @@ export default (t) => {
 
                         <div class="dropdown__list">
                             <div class="dropdown__option">fr</div>
-                            <div class="dropdown__option">en</div>
+                           
                         </div>
                     </div>
 

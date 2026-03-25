@@ -6,7 +6,7 @@
     "contacts": "Contacts"
   },
   "footer": {
-    "description": "Développeuse Data & IA",
+    "description": "Business Analyst IT",
     "copyright": "Copyright 2026. Réalisé par Oumy",
     "media": "Réseaux"
   },
@@ -14,8 +14,8 @@
     "language": "Langages",
     "database": "Bases de données",
     "modelisation_projet": "Modélisation & gestion de projet",
-    "dataScience": "Data, IA & Machine Learning",
-    "framework": "Outils, frameworks & plateformes"
+    "dataScience": "Data",
+    "framework": "Outils & frameworks"
   },
   "projects": {
     "chertnodes": {
@@ -70,6 +70,10 @@
       "name": "Projet de portfolio",
       "description": "Développement d’un portfolio personnel pour présenter mes projets Data, IA et tableaux de bord avec une interface moderne et responsive."
     },
+      "maquette": {
+      "name": "Aaron App",
+      "description": "Création de maquettes applicatives dans le cadre d'un projet de digitalisation des tickets de caisse"
+    },
     "powerbi": {
       "name": "Dashboard Power BI",
       "description": "Tableau de bord Power BI de suivi des ventes : pipeline data complet (préparation, modélisation, DAX), visualisations interactives, sécurité RLS et déploiement sur Power BI Service."
@@ -78,20 +82,21 @@
  "pages": {
   "home": {
       "hero": {
-        "title": "Hey, je suis Oumy <span>Développeuse Data</span>",
-        "description": "Mon intérêt pour la data et l’analyse décisionnelle me pousse à comprendre les besoins métiers afin de développer des solutions fiables et adaptées.<br/>Dotée de solides compétences en développement d'applications, je mets un point d'honneur à la sécurité et à la fiabilité des données.<br/>Je maîtrise l'automatisation des flux (ETL) pour garantir des indicateurs fiables et transformer les données brutes en leviers de décision stratégiques.",
+        "title": "Hey, je suis Oumy <span>Business Analyst IT </span>",
+        "description": [
+          "Passionée par la conception de solutions applicatives, je m’attache à comprendre les besoins métiers afin de proposer des solutions concrètes et adaptées aux usages.</br></br> J'ai eu la l'opportunité de participer à toutes les étapes d'un cycle de projet, depuis la collecte des besoins jusqu'à la validation fonctionnelle. En travaillant conjointement avec les divers intervenants, tout en mettant un accent particulier sur la qualité des données et la fiabilité des solutions."
+        ],
         "button": "Me contacter",
         "status": "Ouverte à de nouvelles opportunités"
       },
 
       "quote": {
         "textBlocks": [
-          "Les données sont comme une faible lueur quand on est perdu dans le noir. ",
-          "Suis-la, cherche à lui donner du sens,",
-          "et tu découvriras peut-être où tu es et ce qui t'entoure."
+          "Quality is never an accident; it is always the result of intelligent effort."
+
         ],
-        "text": "Les données sont comme une faible lueur quand on est perdu dans le noir. Suis-la, cherche à lui donner du sens, et tu découvriras peut-être où tu es et ce qui t'entoure.",
-        "author": "David Sides"
+        "text": "Quality is never an accident; it is always the result of intelligent effort.",
+        "author": "John Ruskin"
       },
       "projects": {
         "title": "projets",
@@ -103,22 +108,23 @@
       "about": {
         "title": "à propos",
         "description": [
-         " À travers mes projets professionnels et académiques, j’ai développé une approche orientée métier centrée sur la donnée, sa qualité et la production d’indicateurs fiables.",
-        "J’ai travaillé sur des projets intégrant la préparation des données, la conception de tableaux de bord Power BI et l’automatisation de processus en environnement ERP.",
-         " Curieuse et rigoureuse, je mène également une veille active afin d’identifier les technologies d’agents IA les plus adaptées aux besoins métiers."
+                "Tout au long de mon parcours, j’ai développé une approche axée sur la compréhension des usages et des processus.",
+                "J’ai travaillé sur des projets combinant data, ERP et outils de reporting, ce qui m’a permis de structurer des données, de concevoir des tableaux de bord et d’optimiser certains processus.",
+
+                "Rigoureuse et curieuse, je m’inscris dans une démarche de veille continue afin d’identifier de nouvelles solutions et répondre aux enjeux opérationnels."
         ],
         "button": "Voir tout"
       },
       "contacts": {
         "title": "contacts",
-        "text": "Je souhaite rejoindre une entreprise afin de mettre mes compétences en data, qualité de la donnée et intelligence artificielle au service de projets de transformation des organisations.",
+        "text": "Je souhaite mettre mes compétences en analyse fonctionnelle, data et systèmes d’information au service d’un poste de Business Analyst IT.",
         "media": "Contactez-moi ici",
         "donate": "Me soutenir ici"
       }
     },
     "projects": {
       "description": "Tous mes projets",
-      "decent": "Projets Data, IA et applicatifs",
+      "decent": "Projets Data et applicatifs",
       "small": "petit",
       "inProgress": "en cours"
     },
@@ -126,9 +132,14 @@
       "description": "Qui suis-je",
       "about": {
         "description": [
-          "Développeuse Data & IA junior, j’interviens sur des projets mêlant données, systèmes d’information et automatisation de processus métiers.",
-          "J’accorde une importance particulière à la qualité des données, à la gouvernance et à la production de tableaux de bord fiables pour les équipes métiers.",
-          "Je développe une approche orientée valeur métier, validation utilisateur et amélioration continue des modèles et des indicateurs."
+         "Au cours de mon parcours professionnel, j'ai façonné un profil à l'intersection du développement d'applications et de la gestion des données.",
+        "J'ai commencé par une formation en SysOps DevOps, ce qui m'a donné une compréhension des défis associés à l'infrastructure, au déploiement et à l'exploitation des systèmes.",
+
+        "Par la suite, j'ai choisi de me diriger vers le développement d'applications, ce qui m'a permis d'obtenir mon diplôme en tant que Conceptrice Développeuse d'Applications.",
+
+        "En 2023, j'ai intégré TSF en tant que Business Analyst IT en alternance, où j'ai participé à divers projets collaborant avec les équipes métiers.",
+
+        "Récemment diplômée en gestion de projet en intelligence artificielle, mon ambition est de travailler dans un cadre novateur, en élaborant des solutions pratiques qui se situent à l'intersection des exigences professionnelles et des systèmes d'information."
         ]
       },
       "skills": {
@@ -137,15 +148,16 @@
       "facts": {
         "title": "faits amusants",
         "list": [
-          "Je préfère l’hiver à l’été",
-          "J’aime faire du vélo",
-          "J’adore la pizza et les pâtes",
-          "Mon film préféré est La Ligne verte"
+          "Quand je découvre que la logique métier est dans la BDD… je comprends tout, sauf pourquoi.",
+        
+          "Mon code compile mieux après un café. Coïncidence ? Je ne pense pas.",
+          "Je crois que les bugs apparaissent surtout quand quelqu’un regarde mon écran."
+      
         ]
       },
       "experience_pro": {
         "title": "expérience professionnelle",
-        "poste": "Alternante – Développeuse Data & IA – Groupe TSF",
+        "poste": "Alternante – Business Analyst IT  & IA – Groupe TSF",
         "date": "2023 – 2025",
         "location": "Saint-Denis",
         "list": [

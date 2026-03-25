@@ -1,9 +1,9 @@
 import { data } from "browserslist";
 
 export default {
-    modelisation_projet: ["methodeAgile", "Trello", "figma","UML","merise"],
-    language: ["js", "ts", "python", "VBA"],
+    modelisation_projet: ["methodeAgile", "Jira", "figma","UML","merise"],
+    language: ["sql","python", "VBA", "js"],
     database: ["sql_server", "postgreSql"],
-    dataScience: ["powerBi","spark", "kedro", "mlflow", "shell", "pandas", "scikitLearn"],
-    framework: ["react", "next",  "express", "flask","reactNative","Vujs" ]   
+    dataScience: ["powerBi","spark","ETL", "pandas", "scikitLearn"],
+    framework: ["react", "next",  "express", "flask","Selenium","sonaque" ]   
 }

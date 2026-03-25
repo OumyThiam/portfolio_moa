@@ -1,6 +1,6 @@
 export default (t) => {
     return /*html*/ `
-        <section class="about"  >
+        <section class="about" style="margin-top: 50px;">
             <div class="about__content">
                 <h2 class="h2">${t.title}</h2>
                 <div class="about__text">
@@ -12,7 +12,7 @@ export default (t) => {
 
                 <a href="/about-me" class="button">${t.button} -></a>
             </div>
-            <img src="/images/about-me.png" alt="" class="about__image">
+            <img src="/images/about.png" alt="" class="about__image">
 
             
         </section>

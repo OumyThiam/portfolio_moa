@@ -4,7 +4,7 @@ import skills from "@/consts/skills";
 
 export default (t, t2) => {
     return /*html*/ `
-        <sections class="skills">
+        <sections class="skills" style="margin-top: 50px;">
             <h2 class="h2">${t.title}</h2>
             <div class="skills__content">
                 <div class="skills__illustrations illustrations">

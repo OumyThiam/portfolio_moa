@@ -62,6 +62,11 @@ export default {
     VBA:"VBA",
     mlflow:"MLflow",
     shell:"Shell",
+    sql:"SQL",
+    ETL:"ETL/ELT",
+    Jira:"Jira",
+    Selenium:"Selenium",
+    sonaque:"SonarQube",
 
 
 }

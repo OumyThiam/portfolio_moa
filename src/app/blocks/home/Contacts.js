@@ -13,7 +13,7 @@ const contacts = [
 
 export default (t) => {
     return /*html*/ `
-        <sections class="contacts" id="contacts">
+        <sections class="contacts" id="contacts" style="margin-top: 50px;">
             <h2 class="h2">${t.title}</h2>
             <div class="contacts__content">
                 <p class="contacts__description">${t.text}</p>

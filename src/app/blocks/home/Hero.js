@@ -9,8 +9,8 @@ export default (t) => {
                 <a class="button button__primary" href="#contacts">${t.button} →</a>
             </div>
             <div class="hero__illustrations">
-                <img  src="/images/logo-outline.svg" alt="Logo" class="hero__logo">
-                <img style="max-width: 60%; display: block; margin: auto;" src="/images/hero.png" alt="Oumy" class="hero__image">
+                <img src="/images/logo-outline.svg" alt="Logo" class="hero__logo">
+                <img style="max-width: 60%; display: block; margin: auto;" src="/images/avatar-removebg-1.png" alt="Oumy" class="hero__image">
                 <div class="hero__status">${t.status}</div>
                 ${Dots({})}
             </div>
