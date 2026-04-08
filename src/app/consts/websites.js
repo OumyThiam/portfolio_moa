@@ -1,5 +1,5 @@
 export default {
-    linkedin: "linkedin.com/in/oumy-thiam/",
+    linkedin: "linkedin.com/in/oumy-thiam-084603202",
     github: "github.com/",
     figma: "figma.com/@",
     replit: "replit.com/@",

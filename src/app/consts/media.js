@@ -2,7 +2,7 @@ import proxy from "../proxies/media"
 
 const media = {
     linkedin: {
-        id: "084603202",
+        id: "",
         tag: "Oumy.dev",
     },
     stackOverflow: {
