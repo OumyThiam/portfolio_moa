@@ -6,7 +6,7 @@
     "contacts": "Contacts"
   },
   "footer": {
-    "description": "Business Analyst IT",
+    "description": "Développeuse Data et IA",
     "copyright": "Copyright 2026. Réalisé par Oumy",
     "media": "Réseaux"
   },
@@ -75,14 +75,25 @@
       "description": "Création de maquettes applicatives dans le cadre d'un projet de digitalisation des tickets de caisse"
     },
     "powerbi": {
-      "name": "Dashboard Power BI",
+      "name": "Analyse de Performance Commerciale",
       "description": "Tableau de bord Power BI de suivi des ventes : pipeline data complet (préparation, modélisation, DAX), visualisations interactives, sécurité RLS et déploiement sur Power BI Service."
-    }
+    },
+"powerbi2": {
+  "name": "Analyse accidents ferroviaires",
+  "description": "Dashboard interactif analysant 47 ans d’accidents ferroviaires aux États-Unis, mettant en évidence tendances, zones à risque et facteurs clés pour la prise de décision."
+},
+
+"dataiku1": {
+  "name": "Prédiction des accidents ferroviaires",
+  "description": "Développement d’un pipeline de machine learning permettant de prédire le type d’accident et le moment de la journée à partir des caractéristiques des incidents."
+}
+
+
   },
  "pages": {
   "home": {
       "hero": {
-        "title": "Hey, je suis Oumy <span>Business Analyst IT </span>",
+        "title": "Hey, je suis Oumy <span>Développeuse Data et IA </span>",
         "description": [
           "Passionnée par la création de solutions applicatives, je m’efforce de comprendre les exigences métiers afin de proposer des solutions concrètes et adaptées aux usages.<br><br>J’ai eu l’opportunité de m’impliquer dans chaque phase du cycle de projet, de la collecte des besoins à la validation fonctionnelle. Cela m’a permis de collaborer étroitement avec différents acteurs, tout en accordant une attention particulière à la qualité des données et à la fiabilité des solutions."
         ],
@@ -117,7 +128,7 @@
       },
       "contacts": {
         "title": "contacts",
-        "text": "Je souhaite mettre mes compétences en analyse fonctionnelle, data et systèmes d’information au service d’un poste de Business Analyst IT.",
+        "text": "Je souhaite mettre mes compétences en analyse fonctionnelle, data et systèmes d’information au service d’un poste de Développeuse Data et IA.",
         "media": "Contactez-moi ici",
         "donate": "Me soutenir ici"
       }

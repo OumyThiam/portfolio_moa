@@ -14,7 +14,31 @@ const projects = [
         image: "gestion_portefeuille.png"
     },
 
-        {
+
+            {
+        id: "powerbi2",
+        links: {
+           
+            live: "https://app.powerbi.com/groups/me/reports/ab840e9c-a063-44a9-b4ee-b145e362c56c/a2893711b909430300d4?experience=power-bi",
+            github: "OumyThiam/Analyse-des-Accidents-Ferroviaires-US"
+        },
+        techs: ["powerBi", "DAX","PowerQuery"],
+        hasImage: true,
+        image: "pbd.jpeg"
+    },
+
+                {
+        id: "dataiku1",
+        links: {
+           
+            live: "app.powerbi.com/groups/me/reports/e2c1189c-ca9c-4eb0-b932-df9154b68aaf/54014b392ea4a8a34e40?ctid=d4631af5-0cc6-4de3-a208-423783c27bf4&experience=power-bi&bookmarkGuid=7045c0c3-03b3-4212-9a02-b26b2ee8b2e1&visual=b6c7817e85bb70999136",
+            github: "OumyThiam/Analyse-des-Accidents-Ferroviaires-US"
+        },
+        techs: ["dataiku", "python", "ML"],
+        hasImage: true,
+        image: "dataiku_img.png"
+    },
+            {
         id: "powerbi",
         links: {
            
@@ -25,8 +49,7 @@ const projects = [
         hasImage: true,
         image: "image.png"
     },
-
-     {
+         {
         id: "maquette",
         links: {
            
@@ -36,8 +59,7 @@ const projects = [
         techs: ["figma"],
         hasImage: true,
         image: "maquette.png"
-    },
-    
+    }
     
    
 ];

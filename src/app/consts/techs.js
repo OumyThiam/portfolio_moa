@@ -68,6 +68,8 @@ export default {
     Selenium:"Selenium",
     sonaque:"SonarQube",
     git:"GitHub/GitLab",
+    dataiku:"Dataiku",
+    ML:"Machine Learning",
 
 
 }
